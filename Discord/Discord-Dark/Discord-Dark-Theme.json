@@ -1,5 +1,5 @@
 {
-    "name": "Discord dark theme",
+    "name": "Spapia Discordia",
     "is_dark": true,
     "colors": {
         "accent-color": "#7289DA",
@@ -12,6 +12,8 @@
         "roomlist-text-secondary-color": "#99AAB5",
         "roomlist-highlights-color": "#393c42",
         "roomlist-separator-color": "#36393f",
+        
+        "sidebar-color-15pct": "23272aa6",
 
         "timeline-background-color": "#36393f",
         "timeline-text-color": "#dcddde",
